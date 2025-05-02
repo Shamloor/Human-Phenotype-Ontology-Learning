@@ -1,0 +1,20 @@
+1. What medical terms or phenotypes are introduced or defined in the paper?
+Duplication of the superficial femoral artery (SFA), anatomical variation, embryology, multidetector computed tomography, angiography, profunda femoris artery, persistent sciatic artery, aplasia, hypoplasia, femoral artery plexus, rami femorales, femoral artery rete, axial artery, ramus communicans superior.
+
+2. What existing studies does the paper build upon or compare with?
+The paper builds upon and compares with existing case reports and studies on SFA duplication, including those by Aksoy et al. (2002), Javerliat et al. (2010), Kantarci et al. (2003), Huynh et al. (2010), and Rajadurai et al. (2015). It also references embryological studies by Senior (1925) and Sahin and Bilgic (1998).
+
+3. Which medical condition or disease is the focus of the paper?
+The focus of the paper is on the rare anatomical variant of duplicated superficial femoral artery (SFA) and its embryological origin.
+
+4. What patient population is being studied?
+The patient population studied includes middle-aged and elderly patients, with an age range of 65–97 years, who have been reported in the literature with duplicated SFA.
+
+5. What are the key findings of the paper?
+The key findings of the paper are the incidental discovery of SFA duplication in a 65-year-old man, the comprehensive review of imaging literature on SFA duplication, and the discussion of the embryological basis for this rare anatomical variant.
+
+6. What clinical implications are suggested by the results?
+The clinical implications suggested by the results include the importance of recognizing SFA duplication for planning endovascular and vascular bypass surgery to avoid misinterpretation and potential vascular compromise.
+
+7. What limitations or challenges are acknowledged in the study?
+The limitations or challenges acknowledged in the study include the paucity of reported cases, potential reporting bias of symptomatic patients, and the seniority of reported patients. Additionally, potential pitfalls in imaging interpretation such as prior arterial bypass procedures and collateral flow are noted.

@@ -1,0 +1,20 @@
+1. What medical terms or phenotypes are introduced or defined in the paper?
+Adrenal haemorrhage, congenital adrenal hyperplasia (CAH), adrenal cysts, adrenal haemorrhage, neuroblastoma, ganglioneuroblastoma, ganglioneuroma, pheochromocytoma, adrenal cortical carcinoma, extramedullary haematopoiesis, circumrenal adrenal gland, horseshoe adrenal gland, adrenal agenesis, adrenal fusion anomalies, accessory gland tissue, ambiguous genitalia, salt loss, opsoclonus myoclonus ataxia syndrome, precocious puberty, Cushing’s syndrome, virilisation/feminisation, extradiaphragmatic extralobar sequestration.
+
+2. What existing studies does the paper build upon or compare with?
+The paper builds upon studies such as Oppenheimer et al. (1983), Wan (2007), Cross and Dixon (1999), Barwick et al. (2005), Scott et al. (1990), Vincent et al. (1994), Kangarloo et al. (1986), Westra et al. (1994), Siegel (2002), Burton et al. (1993), Ditkofsky et al. (2013), Hoffman et al. (1992), Simpson and Hughes (2017), Al-Alwan et al. (1999), Sivit et al. (1991), Hernanz-Schulman et al. (2002), Sargar et al. (2017), Broadley et al. (1997), Bittman et al. (2013), Gyurkovits et al. (2014), Mittelstaedt et al. (1979), Postek et al. (2011), Eo et al. (2011), Hwang et al. (2016), Hero et al. (2008), Roupakias et al. (2011), Brisse et al. (2011), Swift et al. (2018), McHugh (2007), Monclair et al. (2009), Bholah and Bunchman (2017).
+
+3. Which medical condition or disease is the focus of the paper?
+The focus of the paper is on the ultrasound evaluation of the adrenal gland in children, including normal anatomy, congenital anomalies, and various adrenal pathologies such as adrenal haemorrhage, congenital adrenal hyperplasia, adrenal cysts, neuroblastoma, pheochromocytoma, and adrenal cortical carcinoma.
+
+4. What patient population is being studied?
+The patient population being studied is neonates and young children, including those presenting with upper abdominal masses or suspected adrenal lesions.
+
+5. What are the key findings of the paper?
+Key findings include: ultrasound is the modality of choice for evaluating adrenal lesions in children; adrenal gland size and appearance change with age; ultrasound is useful for assessing congenital anomalies and adrenal masses but cannot differentiate between them; correlation with biochemical findings and other imaging modalities is necessary; specific sonographic features of various adrenal conditions are described.
+
+6. What clinical implications are suggested by the results?
+Clinical implications include the importance of using ultrasound as a primary imaging tool for adrenal assessment in children, understanding the normal and pathological sonographic appearances of the adrenal gland, and the need for multimodality imaging and biochemical correlation for accurate diagnosis.
+
+7. What limitations or challenges are acknowledged in the study?
+Limitations or challenges acknowledged include the difficulty in differentiating adrenal masses based solely on ultrasound, the necessity of correlation with biochemical findings and other imaging modalities, and the potential for overlying stomach or bowel gas to obscure visualization of the left adrenal gland.

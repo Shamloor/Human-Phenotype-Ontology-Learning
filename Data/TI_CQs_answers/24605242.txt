@@ -1,0 +1,20 @@
+1. What medical terms or phenotypes are introduced or defined in the paper?
+Coronary artery fistula, coronary-pulmonary fistula, echocardiography, coronary angiography, multidetector computed tomography (MDCT) angiography, transthoracic echocardiography, pulsed-wave Doppler echocardiography, exercise stress test.
+
+2. What existing studies does the paper build upon or compare with?
+The paper builds upon studies by Gowda et al. (2006), Vavuranakis et al. (1995), Said et al. (2006), Manghat et al. (2005), and Zenooz et al. (2009).
+
+3. Which medical condition or disease is the focus of the paper?
+The focus of the paper is coronary artery fistula, specifically coronary-pulmonary artery fistula.
+
+4. What patient population is being studied?
+The patient population studied is a 53-year-old woman with coronary-pulmonary fistula.
+
+5. What are the key findings of the paper?
+The key findings are the successful diagnosis of coronary-pulmonary fistula using multiple imaging modalities (echocardiography, coronary angiography, and MDCT angiography), the demonstration of the fistula's origin and termination, and the confirmation of normal systolic function and absence of atrial and ventricular dilations.
+
+6. What clinical implications are suggested by the results?
+The clinical implications suggest that MDCT angiography is a good non-invasive alternative to coronary angiography for diagnosing coronary artery fistulas, and that asymptomatic patients can be managed conservatively with close follow-up.
+
+7. What limitations or challenges are acknowledged in the study?
+The limitations acknowledged include the difficulty in identifying the origin of turbulent color flow with echocardiography, the invasive and expensive nature of coronary angiography, and the radiation exposure associated with MDCT angiography.

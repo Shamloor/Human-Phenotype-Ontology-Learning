@@ -1,0 +1,20 @@
+1. What medical terms or phenotypes are introduced or defined in the paper?
+Isolated sulfite oxidase deficiency (ISOD), autosomal recessive, neurological abnormalities, neonatal axial hypotonia, peripheral hypertonia, pharmacoresistant seizures, developmental delay, feeding difficulties, ectopia lentis, microcephaly, urinary sulfite, S-sulfocysteine, plasma cystine, total homocysteine, uric acid, oxypurines, cerebral/cerebellar atrophy, cystic white matter changes, ventriculomegaly, SUOX gene mutations, molybdenum cofactor deficiency (MoCD), xanthine oxidase (XO), aldehyde oxidase (AO), mitochondrial impairment, sulfite accumulation, S-sulfocysteine, N-methyl-D-aspartate (NMDA) receptors, sulfatides, mucopolysaccharides, molybdenum cofactor, cyclic pyranopterin monophosphate (cPMP).
+
+2. What existing studies does the paper build upon or compare with?
+The paper builds upon the review by Tan et al. (2005) and includes additional cases reported in the literature since then. It also references studies by Rocha et al. (2014), Touati et al. (2000), Johnson et al. (2002), Edwards et al. (1999), Dublin et al. (2002), and others.
+
+3. Which medical condition or disease is the focus of the paper?
+The focus of the paper is Isolated Sulfite Oxidase Deficiency (ISOD).
+
+4. What patient population is being studied?
+The patient population studied includes 47 patients with ISOD, 45 of whom were previously reported in the literature, and two new cases.
+
+5. What are the key findings of the paper?
+Key findings include: ISOD typically presents in the neonatal or early infantile period with neurological abnormalities; all patients presented with axial hypotonia and/or peripheral hypertonia; 84% had pharmacoresistant seizures; 97% had developmental delay; brain abnormalities were found in all patients who underwent MRI/CT; biochemical findings include positive urinary sulfite, elevated S-sulfocysteine, low plasma cystine, and normal uric acid levels; genetic mutations in the SUOX gene were aligned to the reference sequence NM_000456.2.
+
+6. What clinical implications are suggested by the results?
+Clinical implications include the importance of distinguishing ISOD from treatable diseases like MoCD, the need for thorough laboratory diagnostics (e.g., measurement of homocysteine, amino acids, and sulfite in urine), and the potential for dietary therapy in milder/late-onset forms of ISOD.
+
+7. What limitations or challenges are acknowledged in the study?
+Limitations include the potential for false-negative results in urinary sulfite tests due to sulfite auto-oxidation, the lack of long-term effective treatment for ISOD, and the challenge of distinguishing ISOD from other conditions with similar clinical presentations.
