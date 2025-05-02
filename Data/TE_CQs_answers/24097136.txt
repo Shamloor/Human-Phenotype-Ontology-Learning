@@ -1,0 +1,4 @@
+1. QTc interval
+2. A measure of the time between the start of the Q wave and the end of the T wave in the heart's electrical cycle, corrected for heart rate, used to assess cardiac repolarization and predict arrhythmogenic risk.
+3. none
+4. none
