@@ -1,7 +1,7 @@
 from rdflib import Graph
 
 g = Graph()
-g.parse("Data/hp.owl", format='xml')
+g.parse("Data/hp(original).owl", format='xml')
 
 query_for_class = """
 SELECT DISTINCT ?class
