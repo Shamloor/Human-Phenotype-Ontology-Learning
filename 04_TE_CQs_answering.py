@@ -1,7 +1,7 @@
 import os
 import config
 
-cq_file = './Data/CQs_for_terms_extraction.txt'
+cq_file = 'Data/CQs/CQs_for_terms_extraction.txt'
 input_folder = './Data/TI_CQs_answers'
 output_folder = './Data/TE_CQs_answers'
 os.makedirs(output_folder, exist_ok=True)

@@ -3,7 +3,7 @@ import fitz
 import config
 
 pdf_folder = './Data/pdf'
-cq_file = './Data/CQs_for_topic_identification.txt'
+cq_file = 'Data/CQs/CQs_for_topic_identification.txt'
 output_folder = './Data/TI_CQs_answers'
 
 with open(cq_file, 'r', encoding='utf-8') as f:

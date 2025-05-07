@@ -30,7 +30,7 @@ ontology.getClassesInSignature().each { cls ->
     def superNodes = reasoner.getSuperClasses(cls, false)
     superNodes.getFlattened().each { sup ->
         def superIRI = "<" + sup.getIRI().getShortForm() + ">"
-        writer.println("${classIRI} SubClassOf ${superIRI}")
+        writer.println("${classIRI} ${superIRI}")
     }
 }
 

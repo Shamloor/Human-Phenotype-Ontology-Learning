@@ -1,0 +1,16 @@
+1. What medical terms or phenotypes are introduced or defined in the paper?
+
+2. What existing studies does the paper build upon or compare with?
+
+3. Which medical condition or disease is the focus of the paper?
+
+4. What patient population is being studied?
+
+5. What are the key findings of the paper?
+
+6. What clinical implications are suggested by the results?
+
+7. What limitations or challenges are acknowledged in the study?
+
+
+

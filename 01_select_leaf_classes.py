@@ -19,7 +19,7 @@ results_of_class = g.query(query_for_class)
 
 class_uris = [str(row[0]) for row in results_of_class]
 
-output_path = "Data/leaf classes.txt"
+output_path = "Data/classes/leaf classes.txt"
 
 with open(output_path, "w", encoding="utf-8") as f:
     for uri in class_uris:
