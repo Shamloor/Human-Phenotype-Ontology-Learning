@@ -1,4 +1,5 @@
 import torch
+import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -50,6 +51,23 @@ for leaf in leaves:
                 v1, v2 = embedding_matrix[i1], embedding_matrix[i2]
                 sim = cosine_similarity(v1.unsqueeze(0), v2.unsqueeze(0)).item()
                 similarities_B.append(sim)
+
+
+# === 数值统计函数 ===
+def describe(name, values):
+    v = np.array(values)
+    print(f"\n=== {name} ===")
+    print(f"Count: {len(v)}")
+    print(f"Mean:  {v.mean():.4f}")
+    print(f"Std:   {v.std():.4f}")
+    print(f"Min:   {v.min():.4f}")
+    print(f"25%:   {np.percentile(v, 25):.4f}")
+    print(f"50%:   {np.percentile(v, 50):.4f}")
+    print(f"75%:   {np.percentile(v, 75):.4f}")
+    print(f"Max:   {v.max():.4f}")
+
+describe("Sibling Leaf Similarities", similarities_A)
+describe("Leaf-Parent Similarities", similarities_B)
 
 # === 绘图 ===
 sns.set(style="whitegrid")
