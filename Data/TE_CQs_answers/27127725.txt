@@ -1,4 +1,0 @@
-1. Dys-megakaryopoiesis  
-2. A pathological condition characterized by abnormal megakaryocyte morphology, including micro-megakaryocytes and dysplastic megakaryocytes, identified using CD41 immune staining and associated with adverse prognosis in myelodysplastic syndromes.  
-3. none  
-4. micro-megakaryocytes; dysplastic megakaryocytes

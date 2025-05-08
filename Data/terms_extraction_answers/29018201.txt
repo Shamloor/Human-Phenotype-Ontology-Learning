@@ -1,0 +1,5 @@
+1. leukoencephalopathy  
+2. A neurological condition characterized by the presence of white matter lesions in the brain, often associated with developmental delay, muscle weakness, and chronic headaches, and caused by inborn de novo mutations in the NFE2L2 gene leading to NRF2 accumulation.  
+3. hasExactSynonym: white matter lesions  
+   hasRelatedSynonym: neurological symptoms  
+   hasNarrowSynonym: none

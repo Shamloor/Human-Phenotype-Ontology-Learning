@@ -1,0 +1,5 @@
+1. Lateral medullary syndrome  
+2. A neurological condition caused by ischemia in the lateral medulla, characterized by symptoms such as dysmetria, truncal ataxia, ptosis, miosis, nystagmus, dysphagia, and hiccups, often associated with vertebral artery pathology.  
+3. hasExactSynonym: Wallenberg’s syndrome  
+   hasRelatedSynonym: medullary ischemia  
+   hasNarrowSynonym: none

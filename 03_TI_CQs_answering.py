@@ -4,7 +4,7 @@ import config
 
 pdf_folder = './Data/pdf'
 cq_file = 'Data/CQs/CQs_for_topic_identification.txt'
-output_folder = './Data/TI_CQs_answers'
+output_folder = './Data/topic_identification_answers'
 
 with open(cq_file, 'r', encoding='utf-8') as f:
     cq_lines = [line.strip() for line in f if line.strip()]

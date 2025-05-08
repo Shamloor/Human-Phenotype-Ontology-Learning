@@ -1,0 +1,5 @@
+1. Persistent falcine sinus  
+2. A persistent falcine sinus is a venous structure that remains patent in adulthood, often coexisting with normal, absent, or rudimentary straight sinuses, and is identifiable through brain CT angiography.  
+3. hasExactSynonym: recanalized falcine sinus  
+   hasRelatedSynonym: falcine sinus; sagittal plexus  
+   hasNarrowSynonym: duplication of the falcine sinus

@@ -1,0 +1,5 @@
+1. MLCL/CL ratio  
+2. A diagnostic measurement of the ratio of monolysocardiolipin (MLCL) to cardiolipin (CL) in blood spots, used as a functional assay to identify Barth syndrome by assessing mitochondrial phospholipid remodeling.  
+3. hasExactSynonym: monolysocardiolipin to cardiolipin ratio  
+   hasRelatedSynonym: mitochondrial phospholipid remodeling  
+   hasNarrowSynonym: none

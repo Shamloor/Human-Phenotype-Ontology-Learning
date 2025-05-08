@@ -1,0 +1,5 @@
+1. Hyperbiliverdinaemia  
+2. A medical condition characterized by elevated levels of biliverdin in the blood, often resulting from a genetic defect in the biliverdin reductase-A (BVR-A) gene combined with liver dysfunction, and presenting clinically as green jaundice.  
+3. hasExactSynonym: green jaundice  
+   hasRelatedSynonym: biliverdin reductase-A gene mutation; liver cirrhosis  
+   hasNarrowSynonym: none

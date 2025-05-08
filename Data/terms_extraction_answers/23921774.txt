@@ -1,0 +1,5 @@
+1. right ventricular noncompaction cardiomyopathy  
+2. A cardiomyopathy characterized by prominent hypertrabeculation of the right ventricle, deep intertrabecular recesses, and attenuation of the compact myocardium, often associated with sudden unexpected death.  
+3. hasExactSynonym: RV-NCCM  
+   hasRelatedSynonym: arrhythmogenic right ventricular cardiomyopathy; hypertrabeculation  
+   hasNarrowSynonym: none

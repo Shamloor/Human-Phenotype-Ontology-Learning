@@ -1,0 +1,5 @@
+1. craniorachischisis  
+2. A severe neural tube defect characterized by the complete failure of neural tube closure along the entire body axis, resulting in an open neural tube from the brain to the spine.  
+3. hasExactSynonym: CRN  
+   hasRelatedSynonym: neural tube defect; NTDs  
+   hasNarrowSynonym: none

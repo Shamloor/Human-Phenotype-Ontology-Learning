@@ -1,4 +1,0 @@
-1. Inherited thrombocytopenias  
-2. A class of autosomal-dominant platelet disorders characterized by mild thrombocytopenia, platelet anisocytosis, and giant platelets, caused by mutations in genes such as ITGB3, GP1BA, GP1BB, GP9, MYH9, or GATA1.  
-3. macrothrombocytopenia; Bernard-Soulier Syndrome; Glanzmann thrombasthenia  
-4. mild thrombocytopenia; platelet anisocytosis; giant platelets

@@ -1,0 +1,5 @@
+1. pilocytic astrocytoma  
+2. A type of childhood brain tumor characterized by MAPK pathway alterations, including recurrent activating mutations in FGFR1 and PTPN11, novel NTRK2 fusion genes, and BRAF activating changes.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: childhood brain tumor; midline tumors  
+   hasNarrowSynonym: pediatric glioblastoma

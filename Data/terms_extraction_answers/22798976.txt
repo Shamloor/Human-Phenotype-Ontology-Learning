@@ -1,0 +1,5 @@
+1. Frey syndrome  
+2. Frey syndrome is a medical condition characterized by gustatory sweating, flushing, warmth, and erythema in the preauricular area, often occurring after parotid gland surgery or trauma.  
+3. hasExactSynonym: auriculotemporal syndrome; gustatory sweating  
+   hasRelatedSynonym: hyperhidrosis  
+   hasNarrowSynonym: none

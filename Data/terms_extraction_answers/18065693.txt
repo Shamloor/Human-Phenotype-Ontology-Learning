@@ -1,0 +1,5 @@
+1. Inherited macrothrombocytopenia  
+2. A platelet disorder characterized by mild thrombocytopenia, platelet anisocytosis, and giant platelets, caused by a mutation in the ITGB3 gene.  
+3. hasExactSynonym: macrothrombocytopenia  
+   hasRelatedSynonym: inherited thrombocytopenias; platelet disorder  
+   hasNarrowSynonym: none

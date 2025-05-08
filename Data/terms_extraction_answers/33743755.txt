@@ -1,0 +1,5 @@
+1. Takayasu arteritis  
+2. A chronic inflammatory disease primarily affecting the aorta and its major branches, characterized by granulomatous inflammation, stenosis, occlusion, and aneurysmal degeneration, often diagnosed through imaging and clinical evaluation.  
+3. hasExactSynonym: TA  
+   hasRelatedSynonym: chronic inflammation; aortic wall thickening  
+   hasNarrowSynonym: none

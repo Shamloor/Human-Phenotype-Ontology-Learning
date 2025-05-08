@@ -1,4 +1,0 @@
-1. Cardiac troponins  
-2. Cardiac troponins are proteins released into the bloodstream following myocardial damage, detectable using monoclonal antibodies, and serve as superior biochemical markers for diagnosing myocardial infarction and assessing the risk of adverse cardiac events.  
-3. cTnT; cTnI  
-4. none

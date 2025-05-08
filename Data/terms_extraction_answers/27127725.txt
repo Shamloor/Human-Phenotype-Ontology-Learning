@@ -1,0 +1,5 @@
+1. Dys-megakaryopoiesis  
+2. Dys-megakaryopoiesis is a pathological condition characterized by abnormal megakaryocyte development, including the presence of micro-megakaryocytes and dysplastic megakaryocytes, identified through CD41 immune staining and morphological analysis in myelodysplastic syndromes.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: megakaryocytic dysplasia  
+   hasNarrowSynonym: micro-megakaryocytes; dysplastic megakaryocytes

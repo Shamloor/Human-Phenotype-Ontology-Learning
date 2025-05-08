@@ -1,0 +1,5 @@
+1. Neurocysticercosis  
+2. A parasitic infection of the central nervous system caused by the larval stage of Taenia solium, characterized by the presence of cysts in the brain and often diagnosed through imaging and serological tests.  
+3. hasExactSynonym: NCC  
+   hasRelatedSynonym: cysticercosis  
+   hasNarrowSynonym: single-lesional NCC; extraparenchymal NCC; intraparenchymal NCC

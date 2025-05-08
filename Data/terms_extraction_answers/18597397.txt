@@ -1,0 +1,5 @@
+1. Cartilage morphology  
+2. Cartilage morphology refers to the structural characteristics and integrity of cartilage tissue, often assessed using imaging techniques such as MRI, and is relevant for evaluating degenerative changes in conditions like knee osteoarthritis.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: Cartilage degeneration; Cartilage integrity  
+   hasNarrowSynonym: Patellofemoral joint cartilage morphology; Medial tibiofemoral joint cartilage morphology

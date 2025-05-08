@@ -1,0 +1,5 @@
+1. Triangular nuclear cataract  
+2. A congenital cataract characterized by a triangular opacity in the nucleus of the lens, caused by a homozygous insertion mutation in the GJA8 gene, leading to a frame shift and the addition of 123 novel amino acids.  
+3. hasExactSynonym: recessive triangular cataract  
+   hasRelatedSynonym: congenital cataracts; autosomal recessive cataract  
+   hasNarrowSynonym: none

@@ -1,0 +1,5 @@
+1. Lupus anticoagulant (LAC)
+2. A medical condition characterized by the presence of autoantibodies that prolong phospholipid-dependent coagulation tests, often associated with antiphospholipid syndrome and requiring specific laboratory detection methods such as dilute Russell’s viper venom time (dRVVT).
+3. hasExactSynonym: LAC
+   hasRelatedSynonym: antiphospholipid syndrome (APS)
+   hasNarrowSynonym: none

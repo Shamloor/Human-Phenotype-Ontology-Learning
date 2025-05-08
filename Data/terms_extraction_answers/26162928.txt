@@ -1,0 +1,5 @@
+1. chronic chagasic cardiomyopathy  
+2. A chronic cardiac condition caused by Trypanosoma cruzi infection, characterized by structural and functional abnormalities of the heart, including cardiomyopathy, arrhythmias, and heart failure.  
+3. hasExactSynonym: CCM  
+   hasRelatedSynonym: Chagas heart disease  
+   hasNarrowSynonym: none

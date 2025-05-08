@@ -1,0 +1,5 @@
+1. Adrenal haemorrhage  
+2. A pathological condition characterized by bleeding within the adrenal gland, often detected through ultrasound imaging and associated with trauma, stress, or underlying medical conditions.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: adrenal cysts; adrenal lesions  
+   hasNarrowSynonym: none

@@ -1,0 +1,5 @@
+1. left ventricular apical dyskinesis  
+2. A medical condition characterized by abnormal movement or lack of movement in the apex of the left ventricle, often diagnosed using transthoracic echocardiography and associated with adverse cardiovascular outcomes.  
+3. hasExactSynonym: LV apical dyskinesis  
+   hasRelatedSynonym: wall motion abnormalities; apical outpouching  
+   hasNarrowSynonym: none

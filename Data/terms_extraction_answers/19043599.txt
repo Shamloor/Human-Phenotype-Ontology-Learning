@@ -1,0 +1,5 @@
+1. Ventricular bigeminy  
+2. A cardiac arrhythmia characterized by the alternation of a normal sinus beat with a premature ventricular contraction, resulting in a regular pattern of paired beats.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: extrasystolic beat; fusion beats  
+   hasNarrowSynonym: none

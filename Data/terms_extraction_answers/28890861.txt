@@ -1,0 +1,5 @@
+1. Idiopathic anaphylaxis  
+2. A rare life-threatening disorder characterized by anaphylactic symptoms without identifiable triggers, requiring prompt treatment with intramuscular epinephrine and preventive therapy for frequent episodes.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: corticosteroid-dependent idiopathic anaphylaxis  
+   hasNarrowSynonym: idiopathic anaphylaxis-frequent; idiopathic anaphylaxis-infrequent

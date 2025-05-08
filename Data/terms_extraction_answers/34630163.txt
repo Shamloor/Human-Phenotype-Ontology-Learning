@@ -1,0 +1,5 @@
+1. nocturnal hypoxemia  
+2. Nocturnal hypoxemia is a medical condition characterized by abnormally low oxygen levels in the blood during sleep, which can lead to decreased red blood cell deformability, enhanced hemolysis, and increased risk of hemolytic complications in sickle cell disease patients.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: sleep-disordered breathing; hypoxemia  
+   hasNarrowSynonym: none

@@ -1,0 +1,5 @@
+1. Male infertility  
+2. A medical condition characterized by the inability of a male to achieve pregnancy in a fertile female due to defects in sperm motility, structure, or function, often associated with genetic mutations or malformations in sperm tail components.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: sperm motility defects; asthenozoospermia  
+   hasNarrowSynonym: primary ciliary dyskinesia; dysplasia of fibrous sheath

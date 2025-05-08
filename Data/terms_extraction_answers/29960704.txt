@@ -1,0 +1,5 @@
+1. chronic endometritis  
+2. Chronic endometritis is a persistent inflammation of the endometrial lining characterized by the presence of endometrial stromal plasmacytes (ESPCs), often diagnosed through CD138 immunostaining and associated with poor reproductive outcomes.  
+3. hasExactSynonym: CE  
+   hasRelatedSynonym: endometrial inflammation; uterine inflammation  
+   hasNarrowSynonym: chronic granulomatous endometritis

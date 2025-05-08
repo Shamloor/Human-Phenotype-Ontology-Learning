@@ -1,0 +1,5 @@
+1. Morton’s neuroma  
+2. A condition characterized by forefoot pain caused by nerve compression or entrapment, often diagnosed clinically and confirmed through imaging modalities like ultrasonography.  
+3. hasExactSynonym: interdigital neuroma; interdigital neuritis  
+   hasRelatedSynonym: nerve compression syndrome  
+   hasNarrowSynonym: none

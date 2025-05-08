@@ -1,0 +1,5 @@
+1. Third ventricle tumors  
+2. A class of neoplasms located within the third ventricle of the brain, characterized by their origin, morphology, and potential to cause obstructive hydrocephalus, and diagnosed through neuroimaging and histopathological examination.  
+3. hasExactSynonym: none  
+   hasRelatedSynonym: intraventricular tumors; posterior third ventricle tumors  
+   hasNarrowSynonym: colloid cysts; choroid plexus papillomas; ependymomas

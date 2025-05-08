@@ -1,0 +1,5 @@
+1. Pyrimidine 5' nucleotidase (P5'N-1) deficiency  
+2. A hereditary condition characterized by the deficiency of pyrimidine 5' nucleotidase (P5'N-1), leading to hemolytic anemia, pyrimidine nucleotide accumulation, and basophilic stippling in erythrocytes.  
+3. hasExactSynonym: P5'N-1 deficiency  
+   hasRelatedSynonym: hemolytic anemia; autosomal recessive condition  
+   hasNarrowSynonym: none

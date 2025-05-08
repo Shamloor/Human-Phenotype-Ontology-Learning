@@ -1,0 +1,5 @@
+1. Poor R-wave progression  
+2. Poor R-wave progression is an electrocardiographic pattern characterized by a delayed or absent increase in R-wave amplitude across the precordial leads, often associated with adverse cardiac outcomes such as sudden cardiac death, cardiac death, and all-cause mortality.  
+3. hasExactSynonym: PRWP  
+   hasRelatedSynonym: delayed QRS transition  
+   hasNarrowSynonym: none

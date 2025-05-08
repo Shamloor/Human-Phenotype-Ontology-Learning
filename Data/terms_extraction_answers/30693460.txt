@@ -1,0 +1,5 @@
+1. Erythematous lesions  
+2. Erythematous lesions are red or vascular-appearing alterations of the oral mucosa that can result from a variety of etiologies, including vascular anomalies, reactive processes, immune-mediated diseases, hematologic disorders, and epithelial neoplasia, often requiring histopathologic assessment for accurate diagnosis.  
+3. hasExactSynonym: vascular-appearing alterations; red oral mucosal lesions  
+   hasRelatedSynonym: vascular anomalies  
+   hasNarrowSynonym: none

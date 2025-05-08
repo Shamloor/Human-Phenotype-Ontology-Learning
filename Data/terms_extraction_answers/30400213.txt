@@ -1,0 +1,5 @@
+1. Varicella-Zoster Virus (VZV) infection  
+2. A viral infection caused by the Varicella-Zoster Virus, characterized by primary infection leading to varicella (chickenpox) and potential reactivation causing herpes zoster (shingles), with associated neurological complications.  
+3. hasExactSynonym: VZV infection  
+   hasRelatedSynonym: herpes zoster; chickenpox  
+   hasNarrowSynonym: postherpetic neuralgia; VZV vasculopathy; VZV encephalitis

@@ -1,0 +1,5 @@
+1. Coronary-pulmonary fistula  
+2. A coronary-pulmonary fistula is an abnormal connection between a coronary artery and the pulmonary artery, diagnosed using imaging modalities such as echocardiography, coronary angiography, and multidetector computed tomography angiography.  
+3. hasExactSynonym: Coronary artery fistula  
+   hasRelatedSynonym: Coronary-pulmonary artery fistula  
+   hasNarrowSynonym: none

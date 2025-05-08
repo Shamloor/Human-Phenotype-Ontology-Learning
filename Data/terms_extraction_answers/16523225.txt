@@ -1,0 +1,5 @@
+1. Diffuse villous hyperplasia of the choroid plexus  
+2. A rare medical condition characterized by the diffuse enlargement and villous hypertrophy of the choroid plexus, leading to excessive cerebrospinal fluid production and associated hydrocephalus, typically diagnosed via MRI showing contrast-enhanced, diffusely enlarged choroid plexus.  
+3. hasExactSynonym: DVHCP; villous hypertrophy of the choroid plexus  
+   hasRelatedSynonym: overproduction hydrocephalus  
+   hasNarrowSynonym: none

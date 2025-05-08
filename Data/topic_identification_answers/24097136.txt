@@ -1,0 +1,1 @@
+It is labeled as "1. QTc interval", defined as: "2. The QTc interval is a measure of the time between the start of the Q wave and the end of the T wave in the heart's electrical cycle, corrected for heart rate, and is used to assess the risk of arrhythmias and sudden cardiac death.", and related terms include "prolonged QT interval".

@@ -1,0 +1,5 @@
+1. Isolated sulfite oxidase deficiency  
+2. A rare autosomal recessive metabolic disorder characterized by neurological abnormalities, developmental delay, and biochemical findings such as elevated urinary sulfite and S-sulfocysteine, caused by mutations in the SUOX gene.  
+3. hasExactSynonym: ISOD  
+   hasRelatedSynonym: sulfite oxidase deficiency  
+   hasNarrowSynonym: none

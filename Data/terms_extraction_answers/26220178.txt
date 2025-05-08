@@ -1,0 +1,5 @@
+1. non-gonococcal urethritis  
+2. A medical condition characterized by inflammation of the urethra not caused by Neisseria gonorrhoeae, often associated with infections by pathogens such as Chlamydia trachomatis or Mycoplasma genitalium, and diagnosed through microscopy or nucleic acid amplification tests.  
+3. hasExactSynonym: NGU  
+   hasRelatedSynonym: idiopathic urethritis; pathogen-negative NGU  
+   hasNarrowSynonym: none

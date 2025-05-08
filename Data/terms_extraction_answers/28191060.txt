@@ -1,0 +1,5 @@
+1. Middle cerebral artery peak systolic velocity  
+2. A non-invasive ultrasound measurement of the peak velocity of blood flow in the middle cerebral artery, used to predict fetal anaemia with high sensitivity and specificity.  
+3. hasExactSynonym: MCA-PSV  
+   hasRelatedSynonym: fetal haemodynamic assessment  
+   hasNarrowSynonym: none
