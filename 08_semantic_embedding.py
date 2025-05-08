@@ -16,8 +16,9 @@ model.to(device)
 # 读取CSV
 df = pd.read_csv(input_path, sep='|')
 
-# 结果字典
-embedding_dict = {}
+# 准备保存数据
+id2index = []
+embedding_list = []
 
 # 逐句处理
 for idx, row in tqdm(df.iterrows(), total=len(df)):
@@ -41,8 +42,17 @@ for idx, row in tqdm(df.iterrows(), total=len(df)):
     mean_pooled = sum_embeddings / sum_mask
 
     # 存储
-    embedding_dict[entity_id] = mean_pooled.squeeze().cpu()
+    id2index.append(entity_id)
+    embedding_list.append(mean_pooled.squeeze().cpu())
 
-# 保存为pt文件
-torch.save(embedding_dict, output_path)
+# 构建并保存pt结构
+embedding_tensor = torch.stack(embedding_list)
+index2id = {i: eid for i, eid in enumerate(id2index)}
+
+torch.save({
+    'embedding_matrix': embedding_tensor,
+    'id2index': id2index,
+    'index2id': index2id
+}, output_path)
+
 print(f"Saved to {output_path}")
