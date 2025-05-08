@@ -1,1 +1,20 @@
-It is labeled as "1. Persistent falcine sinus", defined as: "2. A persistent falcine sinus is a venous structure that remains patent in adulthood, often coexisting with normal, absent, or rudimentary straight sinuses, and is identifiable through brain CT angiography.", related terms include "falcine sinus", "sagittal plexus", and narrower terms include "duplication of the falcine sinus".
+1. What medical terms or phenotypes are introduced or defined in the paper?
+Falcine sinus, persistent falcine sinus, recanalized falcine sinus, sagittal plexus, dysplastic tentorium, malposition of the proximal superior sagittal sinus (SSS), rudimentary straight sinus, hypoplastic intervening SSS, duplication of the falcine sinus, direct drainage of the inferior sagittal sinus (ISS).
+
+2. What existing studies does the paper build upon or compare with?
+The paper builds upon previous studies that reported falcine sinuses as rare and often associated with congenital anomalies or sinus occlusion. It references studies on the association of persistent falcine sinus with different clinicoradiologic conditions, recanalization of the falcine sinus after venous sinus thrombosis, and the anatomy of the falcine venous plexus.
+
+3. Which medical condition or disease is the focus of the paper?
+The focus of the paper is the persistent falcine sinus, its incidence, and anatomic characteristics in the adult population.
+
+4. What patient population is being studied?
+The patient population studied consists of 586 consecutive patients who underwent brain CT angiography (CTA) at the authors' institution between September 2008 and February 2009. The patients were adults with a mean age of 52.6 years, ranging from 6 to 97 years.
+
+5. What are the key findings of the paper?
+The key findings of the paper are that falcine sinuses were present in 12 patients (2.1%), which is a higher incidence than previously reported. Most falcine sinuses were not associated with congenital anomalies or sinus occlusion. The study also found that falcine sinuses can coexist with normal, absent, or rudimentary straight sinuses and can be duplicated.
+
+6. What clinical implications are suggested by the results?
+The clinical implications suggested by the results are that knowledge and recognition of falcine sinuses are important during the interpretation of brain CTA. The presence of a falcine sinus may provide important collateral channels in the straight sinus or the caudal segment of the SSS and may be at risk for major bleeding after iatrogenic falcine injury.
+
+7. What limitations or challenges are acknowledged in the study?
+The limitations acknowledged in the study include the uneven distribution of the population, as most CTAs were performed in adults, and the low number of brain MR images available in patients with falcine sinus, which might have led to overlooking small congenital lesions.

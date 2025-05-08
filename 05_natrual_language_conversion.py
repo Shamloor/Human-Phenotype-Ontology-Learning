@@ -1,18 +1,22 @@
 import os
 import pandas as pd
 
-# 1. 输入输出路径设置
 input_folder = 'Data/terms_extraction_answers'
 output_folder = 'Data/natural_language_answers'
 os.makedirs(output_folder, exist_ok=True)
 
-# 2. 获取所有输入文件名（只处理 .txt 文件）
 input_filenames = [f for f in os.listdir(input_folder) if f.endswith('.txt')]
 
-# 3. 定义自然语言构建函数
+
+def clean_prefix(text):
+    parts = text.strip().split('.', 1)
+    return parts[1].strip() if len(parts) == 2 and parts[0].isdigit() else text.strip()
+
+
 def parse_and_naturalize(lines):
-    label = lines[0].strip()
-    definition = lines[1].strip()
+    label = clean_prefix(lines[0])
+    definition = clean_prefix(lines[1])
+
     synonyms = {
         'hasExactSynonym': [],
         'hasRelatedSynonym': [],
@@ -20,8 +24,9 @@ def parse_and_naturalize(lines):
     }
 
     for line in lines[2:]:
+        line = clean_prefix(line)
         if ':' in line:
-            key, value = line.strip().split(':', 1)
+            key, value = line.split(':', 1)
             key = key.strip()
             values = [v.strip() for v in value.split(';') if v.strip()]
             if key in synonyms and not (len(values) == 1 and values[0].lower() == 'none'):
@@ -49,7 +54,7 @@ def parse_and_naturalize(lines):
         sentence = 'It is ' + phrases[0] + '.'
     return sentence
 
-# 4. 批量处理每个文件
+
 for filename in input_filenames:
     input_path = os.path.join(input_folder, filename)
     output_path = os.path.join(output_folder, filename)

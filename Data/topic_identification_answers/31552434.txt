@@ -1,1 +1,20 @@
-It is labeled as "1. Anti-Sm antibody", and defined as: "2. An autoantibody directed against the Smith antigen, which is associated with systemic lupus erythematosus (SLE) and used as a serological marker to assess disease activity.".
+1. What medical terms or phenotypes are introduced or defined in the paper?
+Anti-Smith (Sm) antibody, systemic lupus erythematosus (SLE), systemic lupus erythematosus disease activity index (SLEDAI), anti-double-stranded DNA (dsDNA) antibody, anti-extractable nuclear antigen (ENA) antibodies, lupus nephritis, central nervous system dysfunction, lymphopenia, hypocomplementemia, photosensitivity, serositis, neurologic disorder, hematologic disorder, immunologic disorder, complement activation.
+
+2. What existing studies does the paper build upon or compare with?
+The paper builds upon or compares with studies by Agarwal et al. (2009), Emad et al. (2018), Flechsig et al. (2017), and others that have investigated the association between anti-Sm antibodies and SLE disease activity, clinical manifestations, and the role of anti-dsDNA antibodies in SLE.
+
+3. Which medical condition or disease is the focus of the paper?
+The focus of the paper is systemic lupus erythematosus (SLE).
+
+4. What patient population is being studied?
+The patient population being studied consists of patients with new-onset systemic lupus erythematosus (SLE) who were tested for anti-Sm antibodies at diagnosis and within 12 months after diagnosis.
+
+5. What are the key findings of the paper?
+The key findings of the paper are that anti-Sm antibody is associated with baseline disease activity and the alteration of disease activity in patients with new-onset SLE. The serum level of anti-Sm antibody was significantly correlated with SLEDAI, and changes in anti-Sm antibody titer over 12 months were correlated with alterations in SLEDAI. Anti-Sm antibody positivity at 12 months was associated with higher SLEDAI and anti-dsDNA titer.
+
+6. What clinical implications are suggested by the results?
+The clinical implications suggested by the results are that monitoring of anti-Sm antibody titer may help assess the disease activity in SLE, and anti-Sm antibodies can be a serological marker to assess disease activity in patients with new-onset SLE.
+
+7. What limitations or challenges are acknowledged in the study?
+The limitations or challenges acknowledged in the study include its retrospective design, potential selection bias due to the inclusion of only patients followed up with anti-Sm antibody tests within 12 months, a relatively small number of patients, and the lack of assessment of the long-term effect of anti-Sm antibodies on disease activity.

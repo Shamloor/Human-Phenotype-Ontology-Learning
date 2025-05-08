@@ -1,1 +1,20 @@
-It is labeled as "1. Neurofilament light (NfL)", defined as: "2. A biomarker measured in plasma or cerebrospinal fluid that is associated with cognitive decline and neurodegeneration, particularly in Alzheimer disease and mild cognitive impairment, and is used as a prognostic marker for disease progression.", and related terms include "neurodegeneration marker".
+1. What medical terms or phenotypes are introduced or defined in the paper?
+Neurofilament light (NfL), cognitively unimpaired (CU), mild cognitive impairment (MCI), Alzheimer disease (AD) dementia, frontotemporal dementia, multiple sclerosis, traumatic brain injury, vascular dementia, amyloid PET, FDG-PET, MRI, diffusion tensor imaging (DTI), fractional anisotropy (FA), cortical thickness, hippocampal volume, global cognitive z score, attention z score, memory z score, language z score, visuospatial z score.
+
+2. What existing studies does the paper build upon or compare with?
+The paper builds upon studies from the Alzheimer’s Dementia Neuroimaging Initiative (ADNI), which showed that plasma NfL is elevated in MCI compared to CU and that plasma NfL is associated with neurodegeneration independent of brain amyloid. It also references studies on NfL in multiple sclerosis, traumatic brain injury, and other neurodegenerative disorders.
+
+3. Which medical condition or disease is the focus of the paper?
+The focus of the paper is on neurodegenerative diseases, particularly Alzheimer disease (AD) and mild cognitive impairment (MCI).
+
+4. What patient population is being studied?
+The patient population studied includes 79 participants without dementia (64 cognitively unimpaired [CU] and 15 with mild cognitive impairment [MCI]) from the Mayo Clinic Study of Aging (MCSA), with a median age of 76 years.
+
+5. What are the key findings of the paper?
+Key findings include: 1) Baseline plasma NfL is associated with worsening in neuroimaging measures (except amyloid PET) and global cognition over time. 2) Baseline CSF NfL is associated with declines in cortical thickness and diffusion MRI. 3) Change in plasma NfL is associated with change in global cognition, attention, and amyloid PET. 4) Plasma and CSF NfL have similar effect sizes for predicting cognitive decline and neurodegeneration.
+
+6. What clinical implications are suggested by the results?
+The results suggest that plasma NfL is a useful prognostic marker for cognitive decline and neurodegeneration, with potential as a clinical trial endpoint or marker of disease progression. Plasma NfL is more clinically feasible than CSF NfL for serial measurements.
+
+7. What limitations or challenges are acknowledged in the study?
+Limitations include the small sample size, short follow-up period (15 or 30 months), and the use of different assays for plasma and CSF NfL, which may introduce variability. Additionally, the study does not account for clinical transitions (e.g., CU to MCI) due to the short follow-up.
