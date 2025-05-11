@@ -1,33 +1,32 @@
 import torch
 
-# 路径
-embedding_path = 'Data/embedding/semantic_embedding.pt'
+# === 路径设定（根据实际路径修改） ===
+embedding_path = 'Data/embedding/new_items_embedding.pt'
 
-# 加载文件
+# === 加载数据 ===
 data = torch.load(embedding_path, map_location='cpu')
-
-# 解包
-embedding_matrix = data['embedding_matrix']
-id2index = data['id2index']
 index2id = data['index2id']
+id2index = data['id2index']
 
-# 校验结构
-assert isinstance(id2index, dict), "id2index 应为 dict[str → int]"
-assert isinstance(index2id, dict), "index2id 应为 dict[int → str]"
-assert isinstance(embedding_matrix, torch.Tensor), "embedding_matrix 应为 torch.Tensor"
+# === 打印前几个映射（可根据需要调整范围） ===
+print("📌 前5项 index2id 映射：")
+for i in range(min(5, len(index2id))):
+    print(f"  index {i} → id {index2id[i]}")
 
-# 维度检查
-n_vecs, dim = embedding_matrix.shape
-print(f"✅ 向量矩阵维度: {embedding_matrix.shape}")
-print(f"✅ id2index 长度: {len(id2index)}")
-print(f"✅ index2id 长度: {len(index2id)}")
+print("\n📌 前5项 id2index 映射：")
+for i, (eid, idx) in enumerate(id2index.items()):
+    if i >= 5:
+        break
+    print(f"  id {eid} → index {idx}")
 
-assert n_vecs == len(id2index) == len(index2id), "数量不一致！"
-
-# 样例验证前5个
-print("\n🔍 示例:")
-for i in range(5):
+# === 可选：双向一致性验证 ===
+print("\n🔁 一致性验证：")
+ok = True
+for i in range(len(index2id)):
     eid = index2id[i]
-    idx = id2index[eid]
-    vec = embedding_matrix[idx]
-    print(f"{i}. {eid} → index: {idx} → vec[:5]: {vec[:5].tolist()}")
+    if id2index.get(eid) != i:
+        print(f"❌ 不一致: index {i} → id {eid}, 但 id → {id2index.get(eid)}")
+        ok = False
+        break
+if ok:
+    print("✅ index2id 与 id2index 映射完全一致")

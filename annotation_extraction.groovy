@@ -11,7 +11,7 @@ import org.semanticweb.owlapi.search.EntitySearcher
 
 import java.io.*
 
-def ontologyPath = "./Data/hp(updated).owl"
+def ontologyPath = "./Data/owl/hp(updated).owl"
 def outputPath = "./Data/annotation.txt"
 
 def manager = OWLManager.createOWLOntologyManager()

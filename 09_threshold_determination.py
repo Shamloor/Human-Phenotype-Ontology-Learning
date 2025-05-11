@@ -8,8 +8,8 @@ from itertools import combinations
 from torch.nn.functional import cosine_similarity
 
 # === 设置路径 ===
-embedding_path = 'Data/embedding/semantic_embedding.pt'
-structure_path = 'Data/similarity/structure.txt'
+embedding_path = 'Data/embedding/ontology_embedding.pt'
+structure_path = 'Data/embedding/structure.txt'
 output_dir = 'Data/similarity'
 os.makedirs(output_dir, exist_ok=True)
 
@@ -72,22 +72,23 @@ describe("Leaf-Parent Similarities", similarities_B)
 # === 绘图 ===
 sns.set(style="whitegrid")
 
-# 图 A：兄弟叶子类对相似度
+# 计算分位点
+p25 = np.percentile(similarities_B, 25)
+p75 = np.percentile(similarities_B, 75)
+
+# 合并 KDE 图
 plt.figure(figsize=(8, 5))
-sns.kdeplot(similarities_A, fill=True, color='skyblue')
-plt.title("KDE of Similarity Between Sibling Leaf Nodes")
+sns.kdeplot(similarities_A, fill=True, color='skyblue', label="Sibling Leaf Similarities", alpha=0.5)
+sns.kdeplot(similarities_B, fill=True, color='salmon', label="Leaf-Parent Similarities", alpha=0.5)
+
+plt.axvline(p25, color='gray', linestyle='--', linewidth=1.2, label=f'Parent Q1 = {p25:.2f}')
+plt.axvline(p75, color='steelblue', linestyle='--', linewidth=1.2, label=f'Parent Q3 = {p75:.2f}')
+
+plt.title("KDE of Semantic Similarity Distributions")
 plt.xlabel("Cosine Similarity")
 plt.ylabel("Density")
+plt.legend()
 plt.tight_layout()
-plt.savefig(os.path.join(output_dir, 'leaf_leaf_similarity.png'))
+plt.savefig(os.path.join(output_dir, 'combined_similarity_kde.png'), dpi=300)
 plt.close()
 
-# 图 B：叶子类与其父类相似度
-plt.figure(figsize=(8, 5))
-sns.kdeplot(similarities_B, fill=True, color='salmon')
-plt.title("KDE of Similarity Between Leaf Nodes and Their Parents")
-plt.xlabel("Cosine Similarity")
-plt.ylabel("Density")
-plt.tight_layout()
-plt.savefig(os.path.join(output_dir, 'leaf_parent_similarity.png'))
-plt.close()

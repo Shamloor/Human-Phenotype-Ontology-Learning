@@ -1,5 +1,5 @@
 import os
-import config
+import llm_utils
 
 cq_file = 'Data/CQs/CQs_for_terms_extraction.txt'
 input_folder = './Data/topic_identification_answers'
@@ -38,7 +38,7 @@ for file_name in sorted(os.listdir(input_folder)):
         "Do not repeat the questions or add any other commentary.\n"
     )
 
-    response = config.llm_api(prompt)
+    response = llm_utils.llm_api(prompt)
 
     output_path = os.path.join(output_folder, file_name)
     with open(output_path, 'w', encoding='utf-8') as f_out:

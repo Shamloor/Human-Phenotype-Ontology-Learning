@@ -1,6 +1,6 @@
 import os
 import fitz
-import config
+import llm_utils
 
 pdf_folder = './Data/pdf'
 cq_file = 'Data/CQs/CQs_for_topic_identification.txt'
@@ -37,7 +37,7 @@ for pdf_file in pdf_files:
         "Do not repeat the questions or add any other commentary.\n"
     )
 
-    response = config.llm_api(prompt)
+    response = llm_utils.llm_api(prompt)
 
     output_lines = []
     response_lines = [line.strip() for line in response.strip().splitlines() if line.strip()]

@@ -10,8 +10,8 @@ import org.semanticweb.owlapi.model.*
 
 import java.io.*
 
-def ontologyPath = "./Data/owl/hp(updated).owl"
-def outputPath = "./Data/similarity/structure.txt"
+def ontologyPath = "./Data/owl/hp(original).owl"
+def outputPath = "./Data/embedding/structure.txt"
 
 OWLOntologyManager manager = OWLManager.createOWLOntologyManager()
 OWLOntology ontology = manager.loadOntologyFromOntologyDocument(new File(ontologyPath))
